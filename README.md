@@ -4,7 +4,7 @@ Inicialmente, gostaria de deixar claro que este não é o método mais barato e 
 Enfim, a partir dos conceitos explicitados acima, e dos seguintes itens, desenvolveu-se o projeto.
 #
 ## Itens Usados
-- [ ] Raspberry Pi 3 B+
+[ ] Raspberry Pi 3 B+
 - [ ] Arduino Uno
 - [ ] Módulo Relé
 - [ ] Módulo frequencia de rádio 433mHz
