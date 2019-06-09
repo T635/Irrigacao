@@ -4,6 +4,6 @@ Inicialmente, gostaria de deixar claro que este não é o método mais barato e 
 Enfim, a partir dos conceitos explicitados acima, e dos seguintes itens, desenvolveu-se o projeto.
 #
 ## Itens Usados
-Raspberry Pi 3 B+               Módulo frequencia de rádio 433mHz
-Arduino Uno                     Contator 70 amperes
-Módulo Relé                     Relé termico
+###### Raspberry Pi 3 B+               Módulo frequencia de rádio 433mHz
+###### Arduino Uno                     Contator 70 amperes
+###### Módulo Relé                     Relé termico
