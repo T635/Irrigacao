@@ -3,8 +3,7 @@ Este é um projeto para automatização de um sistema de irrigação, desenvolvi
 #
 Inicialmente, gostaria de deixar claro que este não é o método mais barato e eficaz de se produzir algo do tipo. Entretanto devido a fatores externos, este foi o modo escolhido para o desenvolvimento.
 Enfim, a partir dos conceitos explicitados acima, e dos seguintes itens, desenvolveu-se o projeto.
-
-#Markdown
+# Itens Usados
 - [ ] Raspberry Pi 3 B+
 - [ ] Arduino Uno
 - [ ] Módulo Relé
