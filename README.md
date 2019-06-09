@@ -4,9 +4,12 @@ Inicialmente, gostaria de deixar claro que este não é o método mais barato e 
 Enfim, a partir dos conceitos explicitados acima, e dos seguintes itens, desenvolveu-se o projeto.
 #
 ## Itens Usados
-###### 1-Raspberry Pi 3 B+                           
-###### 1-Módulo frequencia de rádio 433mHz
-###### 1-Arduino Uno                                  
-###### 1-Contator 70 amperes
-###### 1-Módulo Relé                                  
-###### 1-Relé termico
+###### Raspberry Pi 3 B+                           
+###### Módulo frequência de rádio 433mHz
+###### Arduino Uno                                  
+###### Contator 70 amperes
+###### Módulo Relé                                  
+###### Relé termico
+###### Sensor de umidade do solo
+#
+A princípio dividi o projeto em duas partes, na primeira ficam o Raspberry, o módulo emissor de frequência de rádio e o sensor de umidade do solo, os dois últimos ficam acoplados ao primeiro da seguinte forma
