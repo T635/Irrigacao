@@ -14,4 +14,4 @@ Enfim, a partir dos conceitos explicitados acima, e dos seguintes itens, desenvo
 #
 A princípio dividi o projeto em duas partes, na primeira ficam o Raspberry, o módulo emissor de frequência de rádio e o sensor de umidade do solo, os dois últimos ficam acoplados ao primeiro da seguinte forma:
 
-![](T635/Irrigacao/Imagens/Circuito rasperry.png)
+![](Irrigacao/Imagens/arduino.png)
