@@ -26,4 +26,5 @@ Na segunda parte foram usados o Arduino e nele acoplados o módulo de relé, mó
 Feita a montagem, irei a parte da programação.
 ## Programação
 Para que a irrigação fosse ligada quando a umidade do solo chegasse a um nível, foi necessário que o Rpi a aferisse de tempos em tempos, assim quando ela estivesse em baixo nível ele enviaria um sinal, pelo módulo de Rf, o Arduino detectando este sinal ligaria um módulo relé acionando o motor responsável por bombear a água para os aspersores.
+
 O módulo Rf, foi desenvolvido para uma interação Arduino-Arduino, entretanto, devido a seu custo benefício, ele foi usado em uma interação Rpi-Arduino.
