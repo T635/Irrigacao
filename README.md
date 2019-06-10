@@ -17,3 +17,5 @@ A princípio dividi o projeto em duas partes, na primeira ficam o Raspberry, o m
 ![Alt Text](https://raw.githubusercontent.com/T635/Irrigacao/master/Imagens/Circuito%20raspberry.png)
 
 Na segunda parte foram usados o Arduino e nele acoplados o módulo de relé, módulo receptor de frequência de rádio, o relé termico, o contator e o motor da irrigação da seguinte forma:
+
+![Alt Text](https://raw.githubusercontent.com/T635/Irrigacao/master/Imagens/arduino.png)
