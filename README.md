@@ -27,7 +27,9 @@ Feita a montagem, explicarei a programação
 Para que a irrigação fosse ligada quando a umidade do solo chegasse a um nível, foi necessário que o Rpi a aferisse de tempos em tempos, assim quando ela estivesse em baixo nível ele enviaria um sinal, pelo módulo de Rf, o Arduino detectando este sinal ligaria um módulo relé acionando o motor responsável por bombear a água para os aspersores.
 
 O módulo Rf, foi desenvolvido para uma interação Arduino-Arduino, entretanto, devido a seu custo benefício, ele foi usado em uma interação Rpi-Arduino.
+
 O arquivo upado na pasta Arduino deve ser upadas para o arduino pela sua IDE, ja na pasta Rapsberry, há 4 arquivos sendo eles, pw.py, Envio_ligar.py, Envio_desligar.py, Interface_grafica.py.
+
 O arquivo pw.py, é a biblioteca responsável por manipular o Módulo de frequência de rádio;
 
 O arquivo Envio_ligar.py, é o arquivo chamado quando necessita-se que o Arduino ligue o módulo relé;
