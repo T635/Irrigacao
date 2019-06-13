@@ -29,6 +29,9 @@ Para que a irrigação fosse ligada quando a umidade do solo chegasse a um níve
 O módulo Rf, foi desenvolvido para uma interação Arduino-Arduino, entretanto, devido a seu custo benefício, ele foi usado em uma interação Rpi-Arduino.
 O arquivo upado na pasta Arduino deve ser upadas para o arduino pela sua IDE, ja na pasta Rapsberry, há 4 arquivos sendo eles, pw.py, Envio_ligar.py, Envio_desligar.py, Interface_grafica.py.
 O arquivo pw.py, é a biblioteca responsável por manipular o Módulo de frequência de rádio;
+
 O arquivo Envio_ligar.py, é o arquivo chamado quando necessita-se que o Arduino ligue o módulo relé;
+
 O arquivo Envio_desligar.py, é o arquivo chamado quando necessita-se que o Arduino desligue o módulo relé;
+
 O arquivo Interface_grafico.py, é responsável por facilitar a interação do usuário com o programa, deixando-o escolher o tipo de configuração que deseja para sua irrigação.
